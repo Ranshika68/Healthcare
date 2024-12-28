@@ -1,15 +1,59 @@
-# Personalized-Medical-Recommendation-System-with-Machine-Learning
-Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
+# Personalized Medical Recommendation System with Machine Learning
 
-User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
+Welcome to our cutting-edge **Personalized Medical Recommendation System**, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately.
 
-Advanced Machine Learning Models: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
+---
 
-Tailored Recommendations: Receive personalized recommendations for the top 5 medicines, prescription details, and even workout routines based on the predicted disease.
+## Features
 
-Flask App Integration: The entire system is powered by a Flask web application, making it easily accessible to users. Experience the convenience of accessing healthcare recommendations from anywhere.
+### 1. **User-Friendly Interface**
+   - An intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
 
-Privacy and Security: We prioritize user privacy and data security. Your health information is handled with the utmost confidentiality, adhering to the highest industry standards.
+### 2. **Advanced Machine Learning Models**
+   - Integrated state-of-the-art machine learning models to accurately predict diseases based on input symptoms, ensuring reliable and precise results.
 
-Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
+### 3. **Tailored Recommendations**
+   - Receive personalized recommendations for:
+     - **Top 5 medicines** based on the predicted disease.
+     - **Prescription details** for effective treatment.
+     - **Workout routines** tailored to health needs.
 
+### 4. **Flask App Integration**
+   - The system is powered by a Flask web application, ensuring easy accessibility and a responsive design for any device.
+
+### 5. **Privacy and Security**
+   - User data is handled with the utmost confidentiality and stored securely. Our system adheres to the highest industry standards for privacy.
+
+### 6. **Continuous Improvement**
+   - As the system gathers more data, the machine learning models evolve to provide increasingly accurate and relevant recommendations.
+
+---
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript (for user interaction and visualization)
+- **Backend**: Flask (Python-based web framework)
+- **Machine Learning**: Python libraries including Scikit-learn, Pandas, NumPy, TensorFlow/Keras
+- **Database**: SQLite (or any preferred DB for storing user data securely)
+- **Deployment**: Hosted on platforms like Heroku or AWS
+
+---
+
+## Getting Started
+
+Follow these steps to set up and run the **Personalized Medical Recommendation System** locally.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- **Python** (3.7 or later)
+- **pip** (Python package manager)
+- **Git** (optional, for cloning the repository)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ranshika68/personalized-medical-recommendation-system.git
+   cd personalized-medical-recommendation-system
